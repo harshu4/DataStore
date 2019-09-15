@@ -7,5 +7,7 @@ data on the host machine , as of now the app has no constraints set you can modi
 
 So to get the app started execute the following commands
 
-npmm install
+npm install 
+
+
 electron main.js 
